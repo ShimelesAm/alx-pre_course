@@ -1,0 +1,9 @@
+git clone
+git add <file>
+git commit -m <message?
+git push 
+git pull
+git status
+git checkout -b <branch>
+git checkout <branch>
+
